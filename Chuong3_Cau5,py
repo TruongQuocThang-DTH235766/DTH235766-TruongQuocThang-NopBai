@@ -1,0 +1,34 @@
+'''
+(a) i = 3, j = 5 và k = 7:
+•	i < j(3 < 5), đúng, kiểm tra tiếp:
+•	j < k(5 < 7), đúng, nên i = j → i = 5.
+•	Kết quả: i=5, j=5,k=7.
+
+(b) i = 3, j = 7, và k = 5:
+•	I < j (3 < 7), đúng, kiểm tra tiếp:
+•	J < k (7 < 5), sai, nên j = k → j = 5.
+•	Kết quả: i = 3, j = 5, k = 5.
+ 
+(c) i = 5, j = 3, và k = 7:
+•	I ≥ j(5 >= 3), đúng, kiểm tra tiếp:
+•	J > k (3 > 7), sai, nên i = k → i = 7.
+•	Kết quả: i = 7, j = 3, k = 7.
+
+(d) i = 5, j = 7, và k = 3:
+•	I ≥ j (5 >= 7), sai, kiểm tra tiếp:
+•	J > k (7 > 3), đúng, nên j = i → j = 5.
+•	Kết quả: i = 5, j = 5, k = 3.
+
+(e) i = 7, j = 3, và k = 5:
+•	I ≥ j (7 >= 3), đúng, kiểm tra tiếp:
+•	J > k (3 > 5), sai, nên i= k → i = 5.
+•	Kết quả: i = 5, j = 3, k = 5.
+
+(f) i = 7, j = 5, và k = 3:
+•	I ≥ j (7 >= 5), đúng, kiểm tra tiếp:
+•	J > k (5 > 3), đúng, nên j = i → j = 7.
+•	Kết quả: i = 7, j = 7, k = 3.
+
+
+
+'''
